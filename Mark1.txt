@@ -1,0 +1,9 @@
+# OS:           Windows 10; 10.0; amd64
+# JVM:          AdoptOpenJDK; 11.0.8
+# CPU:          Intel64 Family 6 Model 158 Stepping 9, GenuineIntel; 4 "cores"
+# Date:         2020-09-23T17:02:26+0200
+# Processor:	Intel(R) Core(TM) i5-7500 CPU @ 3.40GHz, 3401 Mhz, 4 Kerne(r), 4 Logisk(e) processor(er)
+ 0,005 s     4,7ns 
+ 0,005 s     4,6ns 
+ 0,004 s     4,3ns 
+ 0,004 s     4.2ns 
